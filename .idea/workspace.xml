@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="66e078e5-1338-4b46-922a-b1322a9f747b" name="Changes" comment="Just Updating" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Cherry013&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Cherry013/Batch_Demo.git&quot;,
+    &quot;accountId&quot;: &quot;db96b7a7-6894-40a7-9275-786ebde2932c&quot;
+  }
+}</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0025241623115835" />
+      <entry key="MS500" value="1.3885974139895074" />
+      <entry key="S2" value="3.427557657376319" />
+      <entry key="S5" value="5.554420647333199" />
+      <entry key="S10" value="7.145343515470928" />
+      <entry key="S30" value="11.181599006123022" />
+      <entry key="S60" value="18.096374191059546" />
+      <entry key="M2" value="28.556765780826066" />
+      <entry key="M5" value="48.11693195670541" />
+      <entry key="M10" value="82.53084573138923" />
+      <entry key="M15" value="119.40257351182858" />
+      <entry key="M30" value="230.39543649354388" />
+      <entry key="H1" value="437.50860713737774" />
+      <entry key="H2" value="807.0052255272258" />
+      <entry key="H4" value="1481.6699426763234" />
+      <entry key="D1" value="4666.668802441615" />
+      <entry key="W1" value="6394.466522645039" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="4.812727412009223E-155" />
+      <entry key="S5" value="1.875991417378067E-62" />
+      <entry key="S10" value="1.4179486757194355E-31" />
+      <entry key="S30" value="8.231127539429117E-11" />
+      <entry key="S60" value="1.75205340520898E-5" />
+      <entry key="M2" value="0.010033956486725917" />
+      <entry key="M5" value="0.6858915706956573" />
+      <entry key="M10" value="4.094015586404023" />
+      <entry key="M15" value="8.982933217274402" />
+      <entry key="M30" value="27.40582736338017" />
+      <entry key="H1" value="70.0791550973899" />
+      <entry key="H2" value="154.62896226582185" />
+      <entry key="H4" value="303.30186603349415" />
+      <entry key="D1" value="913.584681192541" />
+      <entry key="W1" value="1226.2408587794305" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.14163285726357672" />
+      <entry key="MS500" value="0.8762132585251716" />
+      <entry key="S2" value="3.155618465582819" />
+      <entry key="S5" value="5.4177091360923475" />
+      <entry key="S10" value="7.070160018456746" />
+      <entry key="S30" value="11.153302547848437" />
+      <entry key="S60" value="18.080705698123438" />
+      <entry key="M2" value="28.557704328346208" />
+      <entry key="M5" value="48.79151332546278" />
+      <entry key="M10" value="86.60352973630421" />
+      <entry key="M15" value="128.35825633226466" />
+      <entry key="M30" value="257.7653847340083" />
+      <entry key="H1" value="507.54627759815577" />
+      <entry key="H2" value="961.5910642248326" />
+      <entry key="H4" value="1784.930298953999" />
+      <entry key="D1" value="5580.231978076947" />
+      <entry key="W1" value="7620.703190130422" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3FG41L1nz8acKFtusF6wnUE3DD6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.1stfile.executor": "Run",
+    "Python.Batch_13.executor": "Run",
+    "Python.b14.executor": "Run",
+    "Python.b26.executor": "Run",
+    "Python.b29.executor": "Run",
+    "Python.batcg_23.executor": "Run",
+    "Python.batch-16.executor": "Run",
+    "Python.batch_23.executor": "Run",
+    "Python.exper.executor": "Run",
+    "Python.just.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.py-33.executor": "Run",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "full.screen.before.presentation.mode": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "D:/CVCORP/Python Programs",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-73a66231627c-5bd6d13a2a75-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-262.10968.92" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="66e078e5-1338-4b46-922a-b1322a9f747b" name="Changes" comment="" />
+      <created>1781687856202</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1781687856202</updated>
+      <workItem from="1781687858524" duration="2945000" />
+      <workItem from="1781766788541" duration="199000" />
+      <workItem from="1781780543625" duration="38000" />
+      <workItem from="1781843550938" duration="4662000" />
+      <workItem from="1781853200492" duration="60000" />
+      <workItem from="1782190998684" duration="19000" />
+      <workItem from="1782195712972" duration="3340000" />
+      <workItem from="1782212435229" duration="2673000" />
+      <workItem from="1782275681339" duration="15000" />
+      <workItem from="1782967457535" duration="2929000" />
+      <workItem from="1782983023634" duration="13000" />
+      <workItem from="1782983567133" duration="706000" />
+      <workItem from="1782984771580" duration="10000" />
+      <workItem from="1782990473905" duration="3021000" />
+      <workItem from="1783054014970" duration="1034000" />
+      <workItem from="1783059355843" duration="3153000" />
+      <workItem from="1783075637360" duration="2918000" />
+      <workItem from="1783136791316" duration="1469000" />
+      <workItem from="1783158938510" duration="627000" />
+      <workItem from="1783308184483" duration="2489000" />
+      <workItem from="1783313229720" duration="2907000" />
+      <workItem from="1783318888675" duration="2180000" />
+      <workItem from="1783332587033" duration="896000" />
+      <workItem from="1783335037600" duration="3212000" />
+      <workItem from="1783399724174" duration="70000" />
+      <workItem from="1783399825863" duration="1475000" />
+      <workItem from="1783418812012" duration="808000" />
+      <workItem from="1783422900833" duration="653000" />
+      <workItem from="1783480662934" duration="3172000" />
+      <workItem from="1783486594169" duration="3114000" />
+      <workItem from="1783491585479" duration="5000" />
+      <workItem from="1783500116691" duration="1034000" />
+      <workItem from="1783502980489" duration="2697000" />
+      <workItem from="1783507980728" duration="1099000" />
+      <workItem from="1783569059446" duration="1378000" />
+      <workItem from="1783570502725" duration="12000" />
+      <workItem from="1783573056751" duration="2625000" />
+      <workItem from="1783660695513" duration="80000" />
+      <workItem from="1783664155709" duration="1190000" />
+      <workItem from="1783677050612" duration="1334000" />
+      <workItem from="1783689027815" duration="1509000" />
+      <workItem from="1785318731481" duration="8000" />
+    </task>
+    <task id="LOCAL-00001" summary="Just Updating">
+      <option name="closed" value="true" />
+      <created>1786427630253</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1786427630253</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="Just Updating" />
+    <option name="LAST_COMMIT_MESSAGE" value="Just Updating" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Python_Programs$just.coverage" NAME="just Coverage Results" MODIFIED="1783689748279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Programs$Batch_13.coverage" NAME="Batch_13 Coverage Results" MODIFIED="1783575501372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Programs$batch_23.coverage" NAME="batch_23 Coverage Results" MODIFIED="1783333393662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
+    <SUITE FILE_PATH="coverage/Python_Programs$main.coverage" NAME="main Coverage Results" MODIFIED="1783665214398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Programs$exper.coverage" NAME="exper Coverage Results" MODIFIED="1783508805783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Programs$batch_16.coverage" NAME="batch-16 Coverage Results" MODIFIED="1783570021175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Programs$batcg_23.coverage" NAME="batcg_23 Coverage Results" MODIFIED="1783678342882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
